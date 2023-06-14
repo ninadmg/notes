@@ -1,7 +1,7 @@
 ---
 title: "why your next app should be in flutter"
 date: 2023-06-04T21:49:34+05:30
-draft: true
+draft: false
 ---
 
 Mobile development has changed a lot in the last few years. In the past, if you wanted to build a fast, smooth app, you had to build native apps for both iOS and Android. Cross-platform apps were mostly web-based, slow, and unpolished.
