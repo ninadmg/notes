@@ -23,7 +23,7 @@ But in the dynamic realm of web3, this well-worn path is a recipe for sluggish p
 
 Our solution lies in flipping the script. Every page displayed on a mobile app boils down to two crucial decisions:
 
-![how_what](/notes/images/how_what.png)
+![how_what](/images/how_what.png)
 
 
 - **What data to show?** The information users crave.
@@ -64,7 +64,7 @@ Not all data displayed on the screen necessarily originates from the SDUI server
 - **Unified Data Model:** To simplify data manipulation, the framework utilizes a common data model. This model acts as a bridge between diverse data sources and ensures consistent data representation within the widgets.
 - **Mapping for Transformation:** The SDUI API response also includes mapping instructions. These instructions define how to transform the retrieved data into the desired format for the widget's data model.
 
-![flow](/notes/images/engine_flow.png)
+![flow](/images/engine_flow.png)
 
 This means that the data API schema looks something like this  
 
