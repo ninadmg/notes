@@ -81,3 +81,6 @@ url = "mailto:mgn524@gmail.com"
 
 [mermaid]
 # enable = true
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
